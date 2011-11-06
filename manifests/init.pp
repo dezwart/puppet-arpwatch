@@ -2,9 +2,6 @@
 #
 # == Parameters
 #
-# [*servers*]
-#   List of upstream NTP servers.
-#
 # == Variables
 #
 # == Examples
